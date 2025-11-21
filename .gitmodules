@@ -1,3 +1,6 @@
 [submodule "addons/2025_11_01_gdp_artillery_net_bullets"]
 	path = addons/2025_11_01_gdp_artillery_net_bullets
 	url = https://github.com/EloiStree/2025_11_01_gdp_artillery_net_bullets.git
+[submodule "addons/2025_10_28_gdp_trusted_websocket"]
+	path = addons/2025_10_28_gdp_trusted_websocket
+	url = https://github.com/EloiStree/2025_10_28_gdp_trusted_websocket.git
