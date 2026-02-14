@@ -19,3 +19,6 @@
 [submodule "addons/2025_11_21_gdp_int_s2w_input_multiplayer"]
 	path = addons/2025_11_21_gdp_int_s2w_input_multiplayer
 	url = https://github.com/EloiStree/2025_11_21_gdp_int_s2w_input_multiplayer.git
+[submodule "addons/2026_01_18_gdp_nes_udp_multiplayer"]
+	path = addons/2026_01_18_gdp_nes_udp_multiplayer
+	url = https://github.com/EloiStree/2026_01_18_gdp_nes_udp_multiplayer.git
