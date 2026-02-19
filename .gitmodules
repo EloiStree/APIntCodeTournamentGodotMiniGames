@@ -22,3 +22,6 @@
 [submodule "addons/2026_01_18_gdp_nes_udp_multiplayer"]
 	path = addons/2026_01_18_gdp_nes_udp_multiplayer
 	url = https://github.com/EloiStree/2026_01_18_gdp_nes_udp_multiplayer.git
+[submodule "addons/2026_02_19_gdp_nes_int_multi_brackeys_2d"]
+	path = addons/2026_02_19_gdp_nes_int_multi_brackeys_2d
+	url = https://github.com/EloiStree/2026_02_19_gdp_nes_int_multi_brackeys_2d.git

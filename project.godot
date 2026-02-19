@@ -16,11 +16,12 @@ compatibility/default_parent_skeleton_in_mesh_instance_3d=true
 
 config/name="APIntCodeTournamentMiniGames"
 config/description="Mini Games to learn code from using Websocket."
-run/main_scene="uid://b162ma3ycw2hw"
+run/main_scene="uid://b8mlwr23kjvkm"
 config/features=PackedStringArray("4.6", "GL Compatibility")
 config/icon="res://icon.svg"
 
 [rendering]
 
+textures/canvas_textures/default_texture_filter=0
 renderer/rendering_method="gl_compatibility"
 renderer/rendering_method.mobile="gl_compatibility"
